@@ -1,4 +1,3 @@
-/* calccolor.js ver.1.18 by calcschools.com (Do not remove this line)*/
 (function () {
 function calccolor(color, elmnt) {
   if (!(this instanceof calccolor)) { return new calccolor(color, elmnt); }
